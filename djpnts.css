@@ -1,0 +1,369 @@
+html, body{
+  margin:-10px;
+}
+
+h1{
+color:black;
+
+}
+
+video {
+    height: 100vh;
+    width: 120vh;
+    margin-left: 20%;
+}
+
+
+
+.venom h1{
+   font-family: 'Cardo',serif;
+   font-size: 20px; 
+    color: darkgray;
+    text-align: center;   
+    margin-bottom: -18;
+}
+
+.venom p {
+     font-family: 'Cardo',serif;
+   font-size: 20px; 
+    color: darkgray;
+    text-align: center; 
+}
+
+.dream h1{
+      font-family: 'Cardo',serif;
+   font-size: 20px; 
+    color: darkgray;
+    text-align: center;   
+    margin-bottom: -138;
+}
+
+.ourb h1{
+      font-family: 'Cardo',serif;
+   font-size: 20px; 
+    color: darkgray;
+    text-align: center;   
+    margin-bottom: -138;
+}
+.djvid {
+    font-family: 'Cardo',serif;
+    color: darkgray;
+    text-align: center;  
+}
+
+.djvid h1 {
+    font-size: 60px;
+    margin-bottom: 30;
+}
+
+.djvid p {
+    font-family: 'Cardo',serif;
+    color: darkgray;
+    text-align: center;  
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.proj p {
+    font-family: 'Cardo',serif;
+    color: darkgray;
+    text-align: left;  
+    font-size: 20px;
+     margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px; 
+    margin-bottom: 70px; 
+}
+
+.pnts h1{
+    font-size: 50px;
+    margin-bottom: -2vh;
+}
+.pnts p{
+    font-size: 30px;
+    color: lightgray;
+}
+
+.online h1{
+      font-family: 'Cardo',serif;
+    color: darkgray;
+    text-align: center;  
+    font-size: 30px;
+    margin-top: 100px; 
+    margin-bottom: 10px; 
+}
+.online p {
+       font-family: 'Cardo',serif;
+    color: darkgray;
+    text-align: center;
+    font-size: 40px;
+  
+}
+
+.statement p {
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px; 
+    margin-bottom: 70px; 
+    font-size: 15px;
+    color: gray; 
+    font-family: 'Cardo',serif;
+}
+
+.statement p1 {
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px; 
+    margin-bottom: 200px; 
+    font-size: 15px;
+    color: gray; 
+    font-family: 'Cardo',serif;
+}
+
+
+.wrcBanner {
+    margin-top: -400; 
+}
+.landing{
+    margin: -10;
+background-image: url(images/film.jpg);
+height:80vh;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    min-height: 400px;
+     font-family: 'Cardo', serif;
+}
+
+.glyphicon{
+    color:darkgray;
+}
+ {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+.venomlanding {
+    margin: -10;
+background-image: url();
+height:100vh;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    min-height: 600px;margin-top: 20px;
+     font-family: 'Cardo', serif;
+}
+
+.contactlanding {
+    margin: -10;
+background-image: url(images/selah.jpg);
+height:100vh;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    min-height: 600px;margin-top: 20px;
+     font-family: 'Cardo', serif;
+}
+
+.eventslanding {
+    margin: -10;
+background-image: url(images/events.jpg);
+height:100vh;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    min-height: 600px;margin-top: 20px;
+     font-family: 'Cardo', serif;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+   
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Cardo', serif;
+
+}
+
+.landing h1 {
+    margin-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 130px;
+
+}
+
+.pnts {
+   
+    text-align: center;
+    color: darkgray;
+    font-size: 50px;
+    font-family: 'Cardo', serif;
+    margin-top: 150px;
+
+}
+
+
+
+.selahlanding h1 {
+     margin-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 130px;
+    
+}
+
+.eventslanding h1 {
+     margin-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 130px;
+}
+
+.contactlanding h1 {
+     margin-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 130px;
+}
+
+.menu h3 {
+    margin: 10;
+    padding: 0;
+    display: inline;
+    text-align: center;
+    align-content: center;
+    font-size: 20px; 
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Cardo', serif;
+    
+}
+
+
+.menu {
+    margin-top: 100px;
+    
+   text-align: center;
+   
+}
+
+.menu s {
+      margin-top: 10px;
+   text-align: center;
+}
+
+.menu a {
+    padding: 10px;
+}
+
+.times h1 {
+    margin-top: 200px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cardo' , serif;
+}
+
+
+.times p {
+    text-align: left;
+    margin-left: 400px;
+    font-family: 'Cardo' , serif;
+    
+}
+
+.timebold {
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Cardo' , serif;
+}
+
+.find {
+    text-align: center;
+    margin-top: 200px;
+    }
+
+.find img {
+    margin-top: 50px; 
+    height: 400px;
+}
+.find h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cardo' , serif;
+    margin-bottom: 20px;
+}
+
+.find p {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Cardo' , serif;
+    margin-bottom: -10px; 
+}
+
+.landing p {
+    margin-top: -45px;
+    text-align: center;
+    color: darkgray;
+    font-size: 30px;
+    font-family: 'Cardo', serif;
+}
+
+.container{
+    text-align: center;
+    margin-top: 250px; 
+    margin-bottom: 50px 
+    text-align: center;
+    font-family: 'Cardo', serif;
+    
+}
+    
+.img {
+    background-size: cover;
+}
+
+.sam {
+    margin-top: 50px; 
+    height:  300px;
+}
+
+.young {
+    margin-top: 50px; 
+    height:  300px;
+}
+
+.jdsn {
+    margin-top: 50px; 
+    height:  300px;
+}
+        
+
+
+background-size: cover;
+    height: 50vh;
+   
+    
+    .socialmedia{
+        background-image: url();
+        height: 70vh;
+        
